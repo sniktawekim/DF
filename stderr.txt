@@ -1,0 +1,5 @@
+File PyLNP.user does not exist
+WARNING: Field GRAZE_COEFFICIENT seems to be missing from file .\Dwarf Fortress 0.40.24\data\init\d_init.txt!
+WARNING: Field GRAZE_COEFFICIENT seems to be missing from file .\Dwarf Fortress 0.40.24\data\init\d_init.txt!
+WARNING: Field GRAZE_COEFFICIENT seems to be missing from file .\Dwarf Fortress 0.40.24\data\init\d_init.txt!
+WARNING: Field GRAZE_COEFFICIENT seems to be missing from file .\Dwarf Fortress 0.40.24\data\init\d_init.txt!

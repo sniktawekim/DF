@@ -1,0 +1,113 @@
+[size=14pt][b]Contents:[/b][/size]
+
+[b]Core:[/b]
+ - [url=http://www.bay12games.com/dwarves/]Dwarf Fortress v0.40.24 (Windows SDL)[/url]
+ - [url=http://www.bay12forums.com/smf/index.php?topic=140808]Starter Pack Launcher (PyLNP v0.9.2a)[/url]
+
+[b][url=http://www.bay12forums.com/smf/index.php?topic=139553]DFHack 40.24-r2[/url]:[/b]
+ - [url=http://www.bay12forums.com/smf/index.php?topic=106497]Stonesense[/url]
+ - [url=http://www.bay12forums.com/smf/index.php?topic=138754]Text will be Text v5.43[/url], with item overrides, clear text, and multilevel
+   - TwbT-compatible resume, automaterial, and mousequery plugins
+ - Scripts and settings from the [url=https://github.com/Lazy-Newb-Pack/LNP-shared-core/]LNP Shared Core[/url]
+   - [url=https://github.com/lethosor/dfhack-scripts]Lethosor's scripts[/url]
+   - [url=http://dffd.wimbli.com/file.php?id=10170]Mechanixm's stockpile settings[/url]
+   - [url=https://gist.github.com/Putnam3145/e7031588f4d9b24b9dda]burial.lua[/url]
+   - [url=http://www.bay12forums.com/smf/index.php?topic=147707]nb_item_info[/url] (adds info to view item screen)
+
+[b]Utilities:[/b]
+ - [url=http://www.bay12forums.com/smf/index.php?topic=35931]Quickfort 2.04[/url] with the [url=http://dwarffortresswiki.org/index.php/Quickfort_Community_Blueprints]community plans archive v2.2[/url], [url=http://redd.it/2qh7hs]etc[/url]
+ - [url=http://www.bay12forums.com/smf/index.php?topic=60287]soundSense 2015-1[/url] (soundpack not included)
+ - [url=http://www.bay12forums.com/smf/index.php?topic=128570]DF Story Maker 1.0[/url]
+ - [url=http://www.bay12forums.com/smf/index.php?topic=130030]DF Announcement Filter 1.1[/url]
+ - [url=http://www.bay12forums.com/smf/index.php?topic=138590]Picturefort 2.1[/url]
+ - [url=http://www.bay12forums.com/smf/index.php?topic=138366]Dorven Realms R1[/url]
+ - [url=http://www.bay12forums.com/smf/index.php?topic=122968]Dwarf Therapist v31.0[/url]
+ - [url=http://www.bay12forums.com/smf/index.php?topic=72702]Legends Viewer 1.13.24[/url]
+ - [url=http://www.bay12forums.com/smf/index.php?topic=57428]Perfect World 1.9[/url]
+ - [url=http://www.bay12forums.com/smf/index.php?topic=70700]Isoworld v2.1[/url]
+ - [url=http://www.bay12forums.com/smf/index.php?topic=128932]World Viewer 2.0.2[/url]
+
+[b]Graphics:[/b]
+ - ASCII (ie. no graphics)
+ - [url=http://www.bay12forums.com/smf/index.php?topic=105376]CLA[/url]
+ - [url=http://www.bay12forums.com/smf/index.php?topic=53180]Ironhand[/url]
+ - [url=http://www.bay12forums.com/smf/index.php?topic=137370]Mayday[/url]
+ - [url=http://www.bay12forums.com/smf/index.php?topic=137096]Phoebus[/url] (default pack)
+ - [url=http://www.bay12forums.com/smf/index.php?topic=126934]Obsidian[/url]
+ - [url=http://www.bay12forums.com/smf/index.php?topic=129219]Spacefox[/url]
+    (via [url=https://github.com/fricy/DFgraphics]Fricy's patches[/url])
+
+[b]Extras:[/b]
+ - [url=https://github.com/PeridexisErrant/Scripts-for-the-Starter-Pack]Useful batch scripts[/url] including a pack updater
+ - [url=https://github.com/Lazy-Newb-Pack/LNP-shared-core/]Color schemes (including colorblind options), embark profiles, keybindings, and more![/url]
+
+
+[size=14pt][b]More information:[/b][/size]
+
+[b]Alternative downloads:[/b]
+Besides [url=http://dffd.bay12games.com/file.php?id=7622]the main download page on DFFD[/url], several people maintain mirrors - including older versions of the pack.  Two maintains [url=http://bit.ly/1mcezz6]this page[/url].  /u/Heston maintains [url=http://df.wicked-code.com/]http://df.wicked-code.com/[/url].  Salithus maintains a [url=http://dwarffortresswiki.org/index.php/User:Salithus]table of torrents here[/url].  And if all else fails,  there's an archive of every pack ever on [url=https://www.dropbox.com/sh/74agv72ccbnqffi/C2-f5KyTUd]my Dropbox[/url] - but please check the others first as there is a very low bandwidth limit.
+
+[b]Checksums:[/b]
+I publish checksums so you can be sure that what you unzipped is the file I zipped, easing any concerns about malware, untrusted mirrors, or corrupt downloads.  [url=http://download.cnet.com/MD5-Checker/3000-2092_4-10410639.html]MD5 Checker[/url] is simple and portable app that makes checking easy.  
+[table][tr][td]                    [/td][/tr]
+[tr][td][b]Pack[/b][/td][td][b]MD5 Checksum[/b][/td][/tr]
+[tr][td]40_24 r5[/td][td]unavailable[/td][/tr]
+[tr][td]40_24 r5[/td][td]96A397DDEFCA1576AB6FF0D935504842[/td][/tr]
+[tr][td]40_24 r4[/td][td]7DDDBE4C6EF96B6290509D244BD0803F[/td][/tr]
+[tr][td]40_24 r3[/td][td]0F9ED602046669AF0E671F0FC41D0A5D[/td][/tr]
+[tr][td]40_24 r2[/td][td]8643D3A759C67AC9DD13E7EB4B24C2D7[/td][/tr]
+[tr][td]40_24 r1[/td][td]BC08EB48B405CB5BD63CBEA04FA7E4BC[/td][/tr]
+[/table]
+
+[spoiler=Recent changelogs:]
+40_24 r5
+ - fixed soundsense configuration
+ - removed duplicate keybindings
+ - fixed laptop listscroll binds
+ - removed some duplicate files
+
+40_24 r4
+ - updated documentation; mostly presentation and some new info
+ - renamed keybindings files for clarity
+ - updated Soundsense to 2015-1; fixes pack download function
+ - updated launcher to PyLNP 0.9.2a; improves handling of mods, graphics, upgrades, list display
+ - reduced raw format halves graphics pack size; even better for mods
+ - removed Legends Exports processor; replaced by new button in PyLNP advanced tab
+ - updated World Viewer to 2.0.2; now handles new DFHack exports
+ - upgraded exportlegends (via WV), exports custom legends_plus xml
+
+40_24 r3
+ - fixed dfhack syntax errors in option for automation plugins
+ - updated Dwarf Therapist to 31.0; labors for 40.24 and bugfixes
+ - updated DFHack to 40.24-r2
+ - updated TwbT to 5.43
+ - updated nb_item_info to 5.1
+ - removed (buggy) ascii art for the above
+ - documented inclusion of World Viewer 2.0.1
+ - added legends_plus xml export to exportlegends.lua instead of including exportlegendsWV.lua
+ - added stonesense option in dfhack tab; but not overlay (too buggy)
+ - enabled pure bugfixes option by default
+ - fixed PyLNP.json-breaking bug in my upload script
+
+40_24 r2
+ - updated DFHack to 40.24-r1; complete release fixes plugin issues
+ - added CptnDuck's 2015 embark profile to default set
+ - minor fix to hfs-pit.lua
+ - updated TwbT to v5.42
+ - fixed PyLNP.json; had broken dfhack tab, folders & links lists
+ - added script/mod to improve item viewscreens; much more info
+
+40_24 r1
+ - updated links for DFFD hostname migration
+ - QF tooltip warns of alt-key interception
+ - disabled seedwatch again; this time for good
+ - updated DF to v40.24; many bugfixes and probably the last before 40.01
+ - updated DFHack to 40.24-r0; some globals missing and reliant plugins will unload
+ - added new DT memory layout
+ - removed all mods due to raw changes and forthcoming merge logic upgrade
+ - updated TwbT to v5.41
+ - fixed Dorven Realms install; .dll files were missing
+ - updated graphics packs for 40.24
+
+All older changelogs are available in the pack, as ./LNP/About/history.txt
+[/spoiler]
